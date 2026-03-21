@@ -6,14 +6,9 @@
 
 ## 👨‍💻 About Me
 
-My main experience has focused on the development, integration, and optimization of data solutions, working with technologies such as Oracle, SQL Server, and cloud environments, across projects in different sectors.
+AI Engineer specialized in Intelligent Agents and Multi-Agent Systems, with experience in architecting and implementing solutions using Amazon Bedrock, LangGraph, and RAG on AWS.
 
-I have mainly worked on:
-Optimization of ETL processes and complex queries (SQL, T-SQL, PL/SQL)
-System and data integration through REST APIs (OIC, XML, JSON)
-Development of analytical solutions in Databricks (PySpark, Delta)
-
-I am currently focused on the development of applied AI solutions, with an emphasis on AI Agents and multi-agent systems, integrating language models with data, business workflows, and enterprise systems. As part of these solutions, I work with RAG techniques and Vector Databases to enable more accurate reasoning and responses.
+I work with agent orchestration, vector databases, episodic memory, and business process automation. I complement this specialization with Data Engineering experience (SQL, T-SQL, PL/SQL, ETL, Databricks), which enables me to architect AI solutions with governance and enterprise scalability.
 
 My main areas of focus include:
 🔹 LLMs & Agentic AI: LangChain, LangGraph, MCP, RAG
